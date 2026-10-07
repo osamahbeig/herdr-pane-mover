@@ -3,7 +3,7 @@ name = "Pane Mover"
 version = "0.2.0"
 min_herdr_version = "0.7.0"
 description = "Clickable overlay menu to move, re-split, or swap the current pane across tabs and workspaces."
-platforms = ["macos", "linux"]
+platforms = ["macos", "linux", "windows"]
 
 [[actions]]
 id = "open"
